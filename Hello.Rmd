@@ -1,0 +1,16 @@
+---
+title: "Hello"
+output: html_document
+---
+
+```{r}
+set.seed(44)
+xs <- sample(1:100, 25)
+xs
+```
+
+```{r}
+me <- median(xs)
+```
+
+The median is `r me`
