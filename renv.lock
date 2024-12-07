@@ -83,6 +83,24 @@
       ],
       "Hash": "78dfe2b21e523358871eea1601b04b56"
     },
+    "bingo": {
+      "Package": "bingo",
+      "Version": "0.0.0.9007",
+      "Source": "GitHub",
+      "RemoteType": "github",
+      "RemoteHost": "api.github.com",
+      "RemoteUsername": "jennybc",
+      "RemoteRepo": "bingo",
+      "RemoteRef": "master",
+      "RemoteSha": "3b1166ef467ca57562d778a68f57befab7df0c16",
+      "Requirements": [
+        "R",
+        "grDevices",
+        "grid",
+        "utils"
+      ],
+      "Hash": "f7cf3af5b4cb8f78b0fe2942c5093c64"
+    },
     "bit": {
       "Package": "bit",
       "Version": "4.5.0.1",
